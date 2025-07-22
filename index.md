@@ -3,6 +3,5 @@ layout: default
 title: 欢迎访问
 ---
 
-# Hello World!
+[查看无人值守文档](无人值守文档.md)
 
-欢迎来到我的 GitHub Pages 页面。
